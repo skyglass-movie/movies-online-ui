@@ -1,8 +1,9 @@
-npm-debug.log
 .dockerignore
 **/.git
 **/.DS_Store
 **/node_modules
 node_modules
+**/npm-debug.log
+npm-debug.log
 Dockerfile
 Dockerfile.prod
